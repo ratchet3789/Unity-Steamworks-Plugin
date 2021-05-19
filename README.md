@@ -2,13 +2,15 @@
 Unity Steamworks Plugin is an extension of the Steamworks.Net Library with simple callbacks for almost all of Steam's Systems.
 
 ## Key
-|Item | Complete           | Priority
-|-----|--------------------|-|
-|`A`  | :heavy_check_mark: | :small_red_triangle:|
-|     | :x:                | :small_red_triangle_down:|
-|     | :red_circle:       | :white_large_square:|
-|     | :yellow_circle:    | 'a'|
-|     | :green_circle:     | 'a'|
+| Key ID | Key Visual
+|------|--------------------|
+| `Task Status: Complete`    | :heavy_check_mark:        |
+| `Task Status: Incomplete`  | :red_circle:              |
+| `Task Status: In Progress` | :yellow_circle:           |
+| `Task Status: Testing`     | :green_circle:            |
+| `Task Priority: High`      | :small_red_triangle:      |
+| `Task Priority: Low`       | :small_red_triangle_down: |
+| `Task Priority: TBA`       | :white_large_square:      |
 
 ## Current State
 Note: None of these have been verified and are placeholders. Some may be removed or added.
