@@ -3,49 +3,49 @@ Unity Steamworks Plugin is an extension of the Steamworks.Net Library with simpl
 
 ## Key
 | Key ID | Key Visual
-|------|--------------------|
-| `Task Status: Complete`    | :heavy_check_mark:        |
-| `Task Status: Incomplete`  | :red_circle:              |
-| `Task Status: In Progress` | :yellow_circle:           |
-| `Task Status: Testing`     | :green_circle:            |
-| `Task Priority: High`      | :small_red_triangle:      |
-| `Task Priority: Low`       | :small_red_triangle_down: |
-| `Task Priority: TBA`       | :white_large_square:      |
+|--------------------------------------|-----|
+| `Task Status: Complete`              | ✔️ |
+| `Task Status: Incomplete`            | 🔴 |
+| `Task Status: In Progress`           | 🟡 |
+| `Task Status: Testing`               | 🟢 |
+| `Task Priority: High`                | 🔺 |
+| `Task Priority: Low`                 | 🔻 |
+| `Task Priority: TBA/Not In progress` | ⬜ |
 
 ## Current State
 Note: None of these have been verified and are placeholders. Some may be removed or added.
-| Item                       | Complete | Priority             |
-|----------------------------|----------|----------------------|
-| `ISteamApps`               | :x:      | :white_large_square: |
-| `ISteamAppTicket`          | :x:      | :white_large_square: |
-| `ISteamClient`             | :x:      | :white_large_square: |
-| `ISteamController`         | :x:      | :white_large_square: |
-| `ISteamFriends`            | :x:      | :white_large_square: |
-| `ISteamGameCoordinator`    | :x:      | :white_large_square: |
-| `ISteamGameServer`         | :x:      | :white_large_square: |
-| `ISteamGameServerStats`    | :x:      | :white_large_square: |
-| `ISteamHTMLSurface`        | :x:      | :white_large_square: |
-| `ISteamHTTP`               | :x:      | :white_large_square: |
-| `ISteamInput`              | :x:      | :white_large_square: |
-| `ISteamInventory`          | :x:      | :white_large_square: |
-| `ISteamMatchmaking`        | :x:      | :white_large_square: |
-| `ISteamMatchmakingServers` | :x:      | :white_large_square: |
-| `ISteamMusic`              | :x:      | :white_large_square: |
-| `ISteamMusicRemote`        | :x:      | :white_large_square: |
-| `ISteamNetworking`         | :x:      | :white_large_square: |
-| `ISteamNetworkingMessage`  | :x:      | :white_large_square: |
-| `ISteamNetworkingSockets`  | :x:      | :white_large_square: |
-| `ISteamNetworkingUtils`    | :x:      | :white_large_square: |
-| `ISteamParties`            | :x:      | :white_large_square: |
-| `ISteamRemotePlay`         | :x:      | :white_large_square: |
-| `ISteamRemoteStorage`      | :x:      | :white_large_square: |
-| `ISteamScreenshots`        | :x:      | :white_large_square: |
-| `ISteamUGC`                | :x:      | :white_large_square: |
-| `ISteamUser`               | :x:      | :white_large_square: |
-| `ISteamUserStats`          | :x:      | :white_large_square: |
-| `ISteamUtils`              | :x:      | :white_large_square: |
-| `ISteamVideo`              | :x:      | :white_large_square: |
-| `ISteamEncryptedAppTicket` | :x:      | :white_large_square: |
-| `SteamNetworkingTypes`     | :x:      | :white_large_square: |
-| `Steam_API`                | :x:      | :white_large_square: |
-| `Steam_GameServer`         | :x:      | :white_large_square: |
+| Item                       | Complete | Priority |
+|----------------------------|----------|-----|
+| `ISteamApps`               | :x:      | 🔺 |
+| `ISteamAppTicket`          | :x:      | 🔺 |
+| `ISteamClient`             | :x:      | 🔺 |
+| `ISteamController`         | :x:      | ⬜ |
+| `ISteamFriends`            | :x:      | 🔺 |
+| `ISteamGameCoordinator`    | :x:      | ⬜ |
+| `ISteamGameServer`         | :x:      | 🔺 |
+| `ISteamGameServerStats`    | :x:      | 🔻 |
+| `ISteamHTMLSurface`        | :x:      | ⬜ |
+| `ISteamHTTP`               | :x:      | 🔻 |
+| `ISteamInput`              | :x:      | ⬜ |
+| `ISteamInventory`          | :x:      | ⬜ |
+| `ISteamMatchmaking`        | :x:      | 🔺 |
+| `ISteamMatchmakingServers` | :x:      | 🔻 |
+| `ISteamMusic`              | :x:      | ⬜ |
+| `ISteamMusicRemote`        | :x:      | ⬜ |
+| `ISteamNetworking`         | :x:      | ⬜ |
+| `ISteamNetworkingMessage`  | :x:      | ⬜ |
+| `ISteamNetworkingSockets`  | :x:      | ⬜ |
+| `ISteamNetworkingUtils`    | :x:      | 🔻 |
+| `ISteamParties`            | :x:      | 🔻 |
+| `ISteamRemotePlay`         | :x:      | ⬜ |
+| `ISteamRemoteStorage`      | :x:      | ⬜ |
+| `ISteamScreenshots`        | :x:      | ⬜ |
+| `ISteamUGC`                | :x:      | ⬜ |
+| `ISteamUser`               | :x:      | 🔺 |
+| `ISteamUserStats`          | :x:      | 🔻 |
+| `ISteamUtils`              | :x:      | 🔺 |
+| `ISteamVideo`              | :x:      | ⬜ |
+| `ISteamEncryptedAppTicket` | :x:      | 🔻 |
+| `SteamNetworkingTypes`     | :x:      | ⬜ |
+| `Steam_API`                | :x:      | 🔺 |
+| `Steam_GameServer`         | :x:      | ⬜ |
